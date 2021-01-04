@@ -1,0 +1,5 @@
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\bin\Release\netcoreapp3.1\publish\ExponentialRegression.exe
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\bin\Release\netcoreapp3.1\publish\ExponentialRegression.dll
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\bin\Release\netcoreapp3.1\publish\ExponentialRegression.deps.json
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\bin\Release\netcoreapp3.1\publish\ExponentialRegression.runtimeconfig.json
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\bin\Release\netcoreapp3.1\publish\ExponentialRegression.pdb

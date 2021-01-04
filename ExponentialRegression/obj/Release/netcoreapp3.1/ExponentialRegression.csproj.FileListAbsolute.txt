@@ -1,0 +1,12 @@
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\bin\Release\netcoreapp3.1\ExponentialRegression.exe
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\bin\Release\netcoreapp3.1\ExponentialRegression.deps.json
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\bin\Release\netcoreapp3.1\ExponentialRegression.runtimeconfig.json
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\bin\Release\netcoreapp3.1\ExponentialRegression.runtimeconfig.dev.json
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\bin\Release\netcoreapp3.1\ExponentialRegression.dll
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\bin\Release\netcoreapp3.1\ExponentialRegression.pdb
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\obj\Release\netcoreapp3.1\ExponentialRegression.AssemblyInfoInputs.cache
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\obj\Release\netcoreapp3.1\ExponentialRegression.AssemblyInfo.cs
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\obj\Release\netcoreapp3.1\ExponentialRegression.csproj.CoreCompileInputs.cache
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\obj\Release\netcoreapp3.1\ExponentialRegression.dll
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\obj\Release\netcoreapp3.1\ExponentialRegression.pdb
+C:\Users\Aryo Adhi\source\repos\ExponentialRegression\ExponentialRegression\obj\Release\netcoreapp3.1\ExponentialRegression.genruntimeconfig.cache
